@@ -8,12 +8,6 @@ cats:
     name: Maru (まる)
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
-  - description: outro gatito.
-    name: Teste gatito barto
-  - description: Testeee
-    name: Novo
-  - description: Gato siamês folgado
-    name: Bartô
 ---
 Welcome to my awesome page about cats of the internet.
 
