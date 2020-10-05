@@ -1,7 +1,7 @@
 import React from 'react';
 import HeaderNav from '../../shared/layout/HeaderNav';
 
-export default () => (
+const About = () => (
   <>
     <HeaderNav />
     <p>
@@ -9,3 +9,5 @@ export default () => (
     </p>
   </>
 );
+
+export default About;
